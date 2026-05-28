@@ -1,2 +1,0 @@
-# presskit
-VLB PRESSKIT
